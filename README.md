@@ -1,4 +1,4 @@
-# Coin Toss
+# React - Coin Toss App
 Flips the coin and views Heads (or) Tails 
 
 ### This project was built using React JS
