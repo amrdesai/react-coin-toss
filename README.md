@@ -1,3 +1,11 @@
+# Coin Toss
+Flips the coin and views Heads (or) Tails 
+
+### This project was built using React JS
+[Visit Page]( https://minm333.github.io/react-coin-toss/)
+
+
+## About running this build:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
