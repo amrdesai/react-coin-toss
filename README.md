@@ -2,7 +2,7 @@
 Flips the coin and views Heads (or) Tails 
 
 ### This project was built using React JS
-[Visit Page]( https://amrdesai.github.io/react-coin-toss/)
+## [Visit Page]( https://amrdesai.github.io/react-coin-toss/)
 
 
 ## About running this build:
